@@ -1,0 +1,70 @@
+*{
+   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     text-transform: capitalize;
+}
+body{
+     font-family: 'Roboto', sans-serif;font-family: 'Roboto', sans-serif;
+    background-image:linear-gradient(rgba(79, 236, 79, 0.3),rgba(79, 236, 79, 0.3)),url(image/HVlgWw6.jpg);
+    background-repeat: no-repeat;
+    background-position:cover;
+    background-size: 1500px 800px;
+}
+.login_form{
+    width: 300px;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    padding: 30px 10px; 
+}
+.title h1{
+    display: inline-block;
+    border-bottom: 5px solid #4fec4f;
+     border-radius: 1px;
+    margin-bottom: 10px;  
+}
+.text input{
+    width: 90%;
+    padding: 8px 10px;
+    background: none;
+    color: white;
+    border: none;
+    border-bottom: 1px solid #4fec4f;
+    font-size: 15px;
+    margin: 7px 0;
+}
+.text span{
+    font-size: 18px;
+    color:#4fec4f;
+}
+.btn input{
+    width: 100%;
+    background-color:#4fec4f;
+    border: none;
+    margin: 10px 0;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: #5e561b;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
